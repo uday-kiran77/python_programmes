@@ -1,3 +1,8 @@
+#Python program to play hilo game
+#User should think of a number between mentioned range and tell the computer that the number guessed by computer is high  or low from your guess
+#Computer can find the number of you think in maximum of 10 guesses
+#This program uses Binary search algorithm
+
 low=1
 high=1000
 print("Please think of a number between {} and {}".format(low,high))
